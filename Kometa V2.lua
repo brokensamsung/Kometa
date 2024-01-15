@@ -1,1 +1,1 @@
-print("Kometa has been patched after the sticker update, Please do not use any exploits on bee swarm anymore. https://discord.gg/66BprF5BN8")
+print("Kometa has been patched after the sticker update Please do not use any exploits on bee swarm anymore. If there is anything safe to use i will let you know in ->>> https://discord.gg/66BprF5BN8")
